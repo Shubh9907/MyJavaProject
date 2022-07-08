@@ -30,5 +30,6 @@ public class Main {
                     break;
                 }
             }while (true);
+        System.out.println("hello");
     }
 }
